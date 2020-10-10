@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/CAPCHIK/gitlessons2020_server.git
+[submodule "site"]
+	path = site
+	url = https://github.com/CAPCHIK/gitlessons2020.git
